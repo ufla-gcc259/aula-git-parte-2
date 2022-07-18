@@ -19,8 +19,8 @@ import (
 )
 
 func main() {
-	fmt.Printf("Que frio! %v\n", tempconv.AbsoluteZeroC)
-	fmt.Printf("Fervendo! %v\n", tempconv.CToF(tempconv.BoilingC))
+	fmt.Printf("Que frio! %v\n", tempconv.AbsoluteZeroC) // Que frio! -273.15°C
+	fmt.Printf("Fervendo! %v\n", tempconv.CToF(tempconv.BoilingC)) // Fervendo! 212°F
 }
 ```
 
