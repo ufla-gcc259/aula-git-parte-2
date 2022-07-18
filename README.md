@@ -1,6 +1,6 @@
 *tempconv*
 =====
-Biblioteca escrita em Go para conversões simples de temperatura.
+Biblioteca escrita em Go para conversões simples de temperatura. Extraída do livro **A Linguagem de Programação Go**, de Alan A. A. Donovan e Brian Kernighan. 
 
 Como usar?
 ----
