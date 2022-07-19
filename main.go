@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/paulojunior-ufla/aula-git-parte-2/tempconv"
+	"github.com/ufla-gcc259/aula-git-parte-2/tempconv"
 )
 
 func main() {
