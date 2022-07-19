@@ -6,7 +6,7 @@ Como usar?
 ----
 Faça o download da biblioteca:
 
-`go get https://github.com/ufla-gcc259/aula-git-parte-2`
+`go get https://github.com/ufla-gcc259/aula-git-parte-2@v1.0.1`
 
 Pronto, agora é só usar:
 ```go
@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/paulojunior-ufla/aula-git-parte-2/tempconv"
+	"github.com/ufla-gcc259/aula-git-parte-2/tempconv"
 )
 
 func main() {
