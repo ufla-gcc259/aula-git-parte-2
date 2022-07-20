@@ -7,12 +7,20 @@ type Celsius float64
 type Fahrenheit float64
 
 const (
+	// AbsoluteZeroC representa a temperatura zero absoluto em Celsius
 	AbsoluteZeroC Celsius = -273.15
-	FreezingC     Celsius = 0
-	BoilingC      Celsius = 100
+
+	// FreezingC representa a temperatura de congelamento da água em Celsius
+	FreezingC Celsius = 0
+
+	// BoilingC representa a temperatura de ebulição da água em Celsius
+	BoilingC Celsius = 100
 )
 
-func (c Celsius) String() string    { return fmt.Sprintf("%g°C", c) }
+// String imprime uma temperatura 'n' em Celsius no formato n°C
+func (c Celsius) String() string { return fmt.Sprintf("%g°C", c) }
+
+// String imprime uma temperatura 'n' em Fahrenheit no formato n°F
 func (f Fahrenheit) String() string { return fmt.Sprintf("%g°F", f) }
 
 // CToF converte uma temperatura em Celsius para Fahrenheit
