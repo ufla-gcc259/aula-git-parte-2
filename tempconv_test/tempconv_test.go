@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+/* Teste que verifica se o resultado da função CToF está correto*/
 func TestCToFAccept(t *testing.T) {
 	testes := []struct {
 		Valores  tempconv.Celsius
@@ -22,6 +23,7 @@ func TestCToFAccept(t *testing.T) {
 	}
 }
 
+/* Teste que verifica se o resultado da função FToF está correto*/
 func TestFToFAccept(t *testing.T) {
 	testes := []struct {
 		Valores  tempconv.Fahrenheit
