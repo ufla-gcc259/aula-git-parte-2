@@ -51,6 +51,10 @@ func main() {
 }
 ```
 
+## Contribua com a API clicando [**aqui**](https://github.com/ThomazSIUFLA/aula-git-parte-2)
+
+**Ou acesse https://github.com/ThomazSIUFLA/aula-git-parte-2**
+
 ---
 
 ## Outras linguagens?
