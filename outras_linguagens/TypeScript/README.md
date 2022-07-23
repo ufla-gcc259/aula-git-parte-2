@@ -6,11 +6,17 @@ Biblioteca escrita em Node com TypeScript para conversões simples de temperatur
 
 Baixe o [Node](https://nodejs.org/pt-br/download/) e instale o [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable), podendo utilizar o npm tambem.
 
-na pasta do projeto rode o camando `yarn`, para instalar as dependencias.
+na pasta do projeto rode o camando:
+
+```
+yarn
+```
 
 depois das dependencia terem sido instaladas, rode o seguinte comando:
 
-`yarn start`
+```
+yarn start
+```
 
 Pronto, agora é só usar:
 
