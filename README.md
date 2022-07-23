@@ -28,7 +28,7 @@ Outras linguagens?
 ----
 Versões da biblioteca *tempconv* para outras linguagens:
 
-> *Todo*
+> * [Rust](./outras_linguagens/Rust/README.md)
 
 Veja como contribuir escrevendo em outra linguagem [aqui](./outras_linguagens/outras_linguagens.md)
 
