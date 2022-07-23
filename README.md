@@ -30,6 +30,7 @@ Versões da biblioteca *tempconv* para outras linguagens:
 
 > *Todo*
 
+Veja como contribuir escrevendo em outra linguagem [aqui](./outras_linguagens/outras_linguagens.md)
 
 Licença
 -----
