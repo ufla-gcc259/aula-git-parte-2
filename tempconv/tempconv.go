@@ -5,6 +5,7 @@ import "fmt"
 
 type Celsius float64
 type Fahrenheit float64
+type Kelvin float64
 
 const (
 	// AbsoluteZeroC representa a temperatura zero absoluto em Celsius
@@ -28,3 +29,6 @@ func CToF(c Celsius) Fahrenheit { return Fahrenheit(c*9/5 + 32) }
 
 // FToC converte uma temperatura em Fahrenheit para Celsius
 func FToC(f Fahrenheit) Celsius { return Celsius((f - 32) * 5 / 9) }
+
+// 	KtoF converte uma temperatura em Kelvin para Fahrenheit
+func KtoF(k Kelvin) Fahrenheit { return Fahrenheit(32 + (k - 273) * 9/5 )}
