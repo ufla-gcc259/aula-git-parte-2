@@ -40,7 +40,7 @@ dotnet new console -o NomeDoProjeto
 using tempconv
 ```
 
-Programa de exemplo:
+- Programa de exemplo:
 ```cs
 using tempconv;
 using System;
@@ -54,6 +54,6 @@ namespace testing{
     }
 }
 ```
-Resultado:
+- Resultado:
 
 ![imagem6](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/6.png)
