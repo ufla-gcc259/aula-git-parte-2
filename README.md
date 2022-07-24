@@ -28,7 +28,7 @@ Outras linguagens?
 ----
 Versões da biblioteca *tempconv* para outras linguagens:
 
-> *Todo*
+> `Python: https://github.com/Marcos-Pimentel/aula-git-parte-2/tree/main/outras_linguagens/Python_Kelvin`
 
 
 Licença
