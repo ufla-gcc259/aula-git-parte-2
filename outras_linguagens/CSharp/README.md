@@ -16,23 +16,23 @@ dotnet new console -o NomeDoProjeto
 
 2. No Visual Studio, no projeto, selecione a opção *Manage NuGet Packages...*
 
->imagem 1
+![imagem1](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/1.png)
 
 3. No NuGet Package Manager, selecione a engrenagem.
 
->imagem 2
+![imagem2](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/2.png)
 
 4. Após aberta a janela, clique no botão +.
 
->imagem 3
+![imagem3](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/3.png)
 
 5. Feito isso, dê um nome para o local onde está localizada o arquivo .nupkg (biblioteca), e o seu local.
 
->imagem 4
+![imagem4](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/4.png)
 
 6. Agora aperte no botão *Install* para incluir a biblioteca nas dependências do seu projeto.
 
->imagem 5
+![imagem5](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/5.png)
 
 E pronto! Agora para fazer uso da biblioteca apenas inclua:
 
