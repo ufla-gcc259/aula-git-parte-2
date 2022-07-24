@@ -36,7 +36,7 @@ Licença
 
 Esta é uma aplicação de código livre: você pode redistribui-la e/ou modificá-la sob os termos da GNU Lesser General Public License (LGPL), conforme publicados pela Free Software Foundadtion, seja pela versão 3 da licença, ou por alguma versão posterior.
 
-A intenção de se distribuir este código é que ele seja útil à comunidade, mas não há garantias envolvidas; não há implicações de garantia para uso comercial ou particular, nesse sentido. Consulte a GNU General Public License para mais detalhes. Disponível em <https://www.gnu.org/licenses/>.
+A intenção de se distribuir este código é que ele seja útil à comunidade, mas não há garantias envolvidas; não há implicações de garantia para uso comercial ou particular, nesse sentido. Consulte a GNU Lesser General Public License para mais detalhes. Disponível em <https://www.gnu.org/licenses/>.
 
 Como contribuir?
 ----
