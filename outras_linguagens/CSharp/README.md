@@ -18,15 +18,15 @@ dotnet new console -o NomeDoProjeto
 
 ![imagem1](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/1.png)
 
-3. No NuGet Package Manager, selecione a engrenagem.
+3. No *NuGet Package Manager*, selecione a engrenagem.
 
 ![imagem2](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/2.png)
 
-4. Após aberta a janela, clique no botão +.
+4. Após aberta a janela, clique no botão **+**.
 
 ![imagem3](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/3.png)
 
-5. Feito isso, dê um nome para o local onde está localizada o arquivo .nupkg (biblioteca), e o seu local.
+5. Feito isso, dê um nome para o local onde está localizada o arquivo *.nupkg* (biblioteca), e o seu local.
 
 ![imagem4](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/4.png)
 
@@ -34,7 +34,7 @@ dotnet new console -o NomeDoProjeto
 
 ![imagem5](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/5.png)
 
-E pronto! Agora para fazer uso da biblioteca apenas inclua:
+## E pronto! Agora para fazer uso da biblioteca apenas inclua:
 
 ```cs
 using tempconv
