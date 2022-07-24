@@ -27,8 +27,9 @@ func main() {
 Outras linguagens?
 ----
 
-[Python](https://github.com/ufla-gcc259/aula-git-parte-2/outras_linguages/python) - 
 Versões da biblioteca *tempconv* para outras linguagens:
+
+[Python](https://github.com/ufla-gcc259/aula-git-parte-2/outras_linguages/python)
 
 > *Todo*
 
