@@ -28,6 +28,8 @@ Outras linguagens?
 ----
 Versões da biblioteca *tempconv* para outras linguagens:
 
+[Java](https://github.com/ufla-gcc259/aula-git-parte-2/outras_linguages/java)
+
 > *Todo*
 
 
