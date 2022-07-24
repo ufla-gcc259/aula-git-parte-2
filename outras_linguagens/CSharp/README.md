@@ -54,5 +54,6 @@ namespace testing{
     }
 }
 ```
+Resultado:
 
-
+![imagem6](https://github.com/yanpisani/aula-git-parte-2/blob/main/outras_linguagens/CSharp/src/6.png)
