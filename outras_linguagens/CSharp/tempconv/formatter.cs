@@ -13,5 +13,9 @@ namespace tempconv{
         public static String FormatFahrenheit(double fahr){
             return fahr.ToString() + " ºF";
         }
+
+        public static String FormatKelvin(double kelv){
+            return kelv.ToString() + " K";
+        }
     }
 }

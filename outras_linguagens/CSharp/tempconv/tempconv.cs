@@ -13,5 +13,21 @@ namespace tempconv{
         public static double FToC(double fahr){
             return ((fahr - 32) * 5) / 9;
         }
+
+        public static double CToK(double cels){
+            return cels - Constants.absZeroCelsius;
+        }
+
+        public static double FToK(double fahr){
+            return CToK(FToC(fahr));
+        }
+
+        public static double KToC(double kelv){
+            return kelv + Constants.absZeroCelsius;
+        }
+
+        public static double KToF(double kelv){
+            return CToF(KToC(kelv));
+        }
     }
 }
