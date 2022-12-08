@@ -1,6 +1,6 @@
 const ABSOLUTE_ZERO_C = -273.15; 
 const FREEZING_C = 0; 
-const BOILING_C = 0; 
+const BOILING_C = 100; 
 
 const tempconv = {
     ABSOLUTE_ZERO_C,
