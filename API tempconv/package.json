@@ -1,0 +1,16 @@
+{
+  "name": "api-tempconv",
+  "version": "1.0.0",
+  "description": "API para utilizar biblioteca tempconv para a linguagem javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Gustavo Reis Souza Lima <GustavoRSL>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
