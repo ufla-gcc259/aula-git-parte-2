@@ -34,7 +34,7 @@ Versões da biblioteca *tempconv* para outras linguagens:
 Licença
 -----
 
-> *Todo*
+> **MIT LICENSE**
 
 
 Como contribuir?
