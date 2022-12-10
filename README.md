@@ -28,7 +28,7 @@ Outras linguagens?
 ----
 Versões da biblioteca *tempconv* para outras linguagens:
 
-> *Todo*
+> [Java](https://github.com/Nxxxlxs/temp-conv-java)
 
 
 Licença
