@@ -34,7 +34,7 @@ Versões da biblioteca *tempconv* para outras linguagens:
 Licença
 -----
 
-> *Todo*
+[![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/GhabriellLuz/aula-git-parte-2/blob/add-license/LICENSE)
 
 
 Como contribuir?
