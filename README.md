@@ -40,3 +40,24 @@ Licença
 Como contribuir?
 ----
 Escolha uma *issue* dentre as [disponíveis](https://github.com/ufla-gcc259/aula-git-parte-2/issues), avise à comunidade que você está trabalhando nela e envie um *Pull Request*, quando terminar.
+
+Diretrizes para mensagens de commit
+-----
+
+* As mensagens devem ser simples
+* As mensagens devem ser sucintas (100 caracteres)
+* As mensagens devem dizer se o commit é referente a uma:
+  * melhoria 
+  * correção de bug 
+  * teste 
+  * documentação 
+  * refatoração 
+  * etc...
+
+- As mensagens devem mencionar uma Issue específica
+- Caso o commit seja para reverter outro commit, ele deve ser mencionado
+- As mensagens devem evitar vocabulário vago
+- As mensagens devem mencionar o escopo do commit
+
+Exemplo
+> **(Issue 7)** Documentação: este commit adiciona as diretrizes de commit do projeto 
