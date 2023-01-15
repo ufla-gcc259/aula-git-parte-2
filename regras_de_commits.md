@@ -1,12 +1,12 @@
-Git Flow
+## Git Flow
 Usamos o padrão baseado no Git Flow para versionamento de branches e código. Para isso temos 2 branches principais main e develop. A develop, como o próprio nome já diz, é usada durante o processo de desenvolvimento, ela irá possuir o código mais atual e será a branch a qual o desenvolvedor usará de base para criar as branches de novas features. As branches de feature devem seguir o padrão feature/<id>-<feature> onde o <id> é o código da tarefa e <feature> é uma breve descrição, em português, separada por "-" ex: feature/126-adiciona-pipeline-build. Para correções de bugs/problemas o padrão de nome das branches é hotfix/<id>-<fix> que é bem semelhante ao padrão anterior.
 
 <IMG src="Hotfix branches.svg" alt="Fluxo de trabalho Git flow – Ramificações de hotfix"/>
 
-#Versionamento
+## Versionamento
 O versionamento das releases [Semantic Version](https://semver.org/) para facilitar a geração das versões da biblioteca. Em resumo, o padrão é formado por três números onde a versão é dada por `<major>.<minor>.<patch>` e cada feature pode incrementar um número no <minor> ou <major> dependendo da compatibilidade com as versões anteriores. Correções normalmente incrementam o <patch>.
 
-#Padrão de Commit
+## Padrão de Commit
 Dado o padrão de versionamento definido anteriormente, um padrão de commit foi adotado para facilitar e automatizar a geração de versões dentro da biblioteca. O padrão de [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) segue o padrão de versionamento também adotado e facilita para que ferramentas de automatização consigam gerar versões automaticamente dado os commits feitos.
 
 O padrão do conventional commits em sumo é:
