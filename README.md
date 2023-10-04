@@ -33,8 +33,7 @@ Versões da biblioteca *tempconv* para outras linguagens:
 
 Licença
 -----
-
-> *Todo*
+Este repositório está sob a licença **GNU GENERAL PUBLIC LICENSE v3.0**
 
 
 Como contribuir?
