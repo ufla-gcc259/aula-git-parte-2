@@ -1,42 +1,31 @@
-*tempconv*
-=====
-Biblioteca escrita em Go para conversões simples de temperatura. Extraída do livro **A Linguagem de Programação Go**, de Alan A. A. Donovan e Brian Kernighan. 
+# Conversor de Temperatura em Java
 
-Como usar?
-----
-Faça o download da biblioteca:
+Este programa Java converte temperaturas entre Celsius e Fahrenheit e fornece algumas constantes de temperatura.
 
-`go get https://github.com/ufla-gcc259/aula-git-parte-2@v1.0.1`
+## Índice
 
-Pronto, agora é só usar:
-```go
-package main
+- [Introdução](#introdução)
+- [Como Usar](#como-usar)
+- [Exemplo](#exemplo)
 
-import (
-	"fmt"
+## Introdução
 
-	"github.com/ufla-gcc259/aula-git-parte-2/tempconv"
-)
+Este programa Java oferece uma utilidade de conversão de temperatura para converter temperaturas entre Celsius e Fahrenheit. Também define constantes para pontos de temperatura comuns, como Zero Absoluto e o ponto de ebulição da água em Celsius.
 
-func main() {
-	fmt.Printf("Que frio! %v\n", tempconv.AbsoluteZeroC) // Que frio! -273.15°C
-	fmt.Printf("Fervendo! %v\n", tempconv.CToF(tempconv.BoilingC)) // Fervendo! 212°F
-}
-```
+## Como Usar
 
-Outras linguagens?
-----
-Versões da biblioteca *tempconv* para outras linguagens:
+Para usar este programa, siga estes passos:
 
-> *Todo*
+1. Certifique-se de ter o Java instalado em seu computador.
 
+2. Compile o arquivo `TempConv.java` usando o compilador Java (`javac`).
 
-Licença
------
+3. Execute o programa compilado executando a classe Main.
 
-> *Todo*
+4. O programa exibirá as conversões de temperatura e constantes na tela.
 
+5. Aqui está um exemplo de como usar o programa:
 
-Como contribuir?
-----
-Escolha uma *issue* dentre as [disponíveis](https://github.com/ufla-gcc259/aula-git-parte-2/issues), avise à comunidade que você está trabalhando nela e envie um *Pull Request*, quando terminar.
+    $ java Main
+    Que frio! -273.15°C
+    Fervendo! 100.0°C
