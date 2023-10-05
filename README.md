@@ -28,7 +28,7 @@ Outras linguagens?
 ----
 Versões da biblioteca *tempconv* para outras linguagens:
 
-> *Todo*
+- [Typescript](./typescript/)
 
 
 Licença
