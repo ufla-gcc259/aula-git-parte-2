@@ -26,10 +26,21 @@ func main() {
 
 Outras linguagens?
 ----
-Versões da biblioteca *tempconv* para outras linguagens:
+Para adicionar versões da biblioteca *tempconv* para outras linguagens, seguir os seguintes passos:
+* Criar/Acessar a pasta denominada outras_linguagens nesse projeto. 
+* Criar uma pasta com o nome da linguagem.
+* Adicionar dois arquivos. 
+    * Primeiro arquivo: Readme explicando como usar essa versão da lib.
+    * Segundo arquivo: Código traduzido para a linguagem, seu nome deve seguir a nomeclatura "tempconv.[extensão do arquivo]".
 
-> *Todo*
-
+Exemplo:
+* outras_linguagens
+    * Java
+        * README.md
+        * tempconv.java
+    * Python
+        * README.md
+        * tempconv.py
 
 Licença
 -----
