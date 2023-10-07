@@ -23,6 +23,26 @@ func main() {
 	fmt.Printf("Fervendo! %v\n", tempconv.CToF(tempconv.BoilingC)) // Fervendo! 212°F
 }
 ```
+### Exemplo de Uso
+----
+Você também pode conferir um exemplo de uso da biblioteca tempconv em um programa que converte temperaturas entre as escalas Celsius e Fahrenheit. O código de exemplo pode ser encontrado no arquivo example.go. Para executar o exemplo, siga estas etapas:
+1. Clone este repositório:
+```
+git clone https://github.com/ufla-gcc259/aula-git-parte-2.git
+```
+
+2. Navegue até o diretório do projeto:
+```
+cd aula-git-parte-2
+```
+
+3. Compile e execute o exemplo:
+```
+go run example.go 100
+``` 
+Isso imprimirá o valor convertido nas escalas Celsius e Fahrenheit.
+
+4. Experimente diferentes valores numéricos para ver as conversões. Aproveite a biblioteca tempconv para suas conversões de temperatura em Go!
 
 Outras linguagens?
 ----
