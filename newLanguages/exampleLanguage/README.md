@@ -8,11 +8,11 @@ Como criar novas versões da biblioteca [tempconv]?
 
 3 » Crie o arquivo da tradução que implementou. Ex.: temconv.cpp 
 
----------------------------------------------------------
-Organização das novas versões de linguagem da biblioteca
----------------------------------------------------------
+---------------------------------------------------------------------
+Organização de pastas para novas versões de linguagem da biblioteca
+---------------------------------------------------------------------
 
-* newLanguages
-    * exampleLanguage
-        * README.md
-        * tempconv.cpp
+» newLanguages
+    » exampleLanguage
+        » README.md
+        » tempconv.cpp
