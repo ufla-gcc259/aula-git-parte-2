@@ -8,6 +8,10 @@ Faça o download da biblioteca:
 
 `go get https://github.com/ufla-gcc259/aula-git-parte-2@v1.0.1`
 
+ou em Java
+
+
+
 Pronto, agora é só usar:
 ```go
 package main
@@ -24,12 +28,26 @@ func main() {
 }
 ```
 
+
+ou em Java
+import tempconv.tempconv;
+
+public class main {
+    public static void main(String[] args) {
+        tempconv.Celsius absoluteZeroC = new tempconv.Celsius(-273.15);
+        tempconv.Celsius boilingC = new tempconv.Celsius(100);
+
+        System.out.printf("Que frio! %s%n", absoluteZeroC);
+        System.out.printf("Fervendo! %s%n", tempconv.celsiusToFahrenheit(boilingC));
+    }
+}
+
+
 Outras linguagens?
-----
+Java
 Versões da biblioteca *tempconv* para outras linguagens:
 
-> *Todo*
-
+> Java
 
 Licença
 -----
