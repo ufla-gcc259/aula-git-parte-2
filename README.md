@@ -50,17 +50,22 @@ Cada mensagem de confirmação consiste em um tipo, escopo, descrição e issue.
 
 **Aqui está uma explicação de cada parte:**
 
-
 > O **tipo** do commit, como "feat" (para novos recursos), "fix" (para correções de bugs), "docs" (para atualizações na documentação), "style" (para mudanças de estilo de código),etc.
+
 > O **escopo** opcional descreve a parte específica do projeto que foi afetada pela alteração. Isso pode ser um nome de módulo, um componente ou outra divisão relevante do projeto.
+
 > Uma breve **descrição** da alteração.
+
 > O número referente à **issue** que está resolvendo.
+
+
 **Aqui estão alguns exemplos:**
 
 * feat(login): Adiciona autenticação via OAuth2 (#123)
 * fix(bug-form): Corrige validação de email no formulário (#124)
 * docs(readme): Atualiza instruções de instalação (#125)
 * style(css): Refatora estilos de botões (#126)
+
 
 **Para manter a consistência, vamos definir alguns padrões:**
 
