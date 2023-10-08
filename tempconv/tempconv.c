@@ -1,4 +1,4 @@
-# include <stdio.h>
+#include <stdio.h>
 
 typedef double Celsius;
 typedef double Fahrenheit;
@@ -25,24 +25,4 @@ Fahrenheit celsiusToFahrenheit(Celsius c)
 Celsius fahrenheitToCelsius(Fahrenheit f)
 {
     return (f - 32) * 5 / 9;
-}
-
-int main()
-{
-    Celsius c = -10.0;
-    Fahrenheit f = 32.0;
-
-    printf("Celsius: ");
-    printCelsius(c);
-
-    printf("Fahrenheit: ");
-    printFahrenheit(f);
-
-    printf("Celsius to Fahrenheit: ");
-    printFahrenheit(celsiusToFahrenheit(c));
-
-    printf("Fahrenheit to Celsius: ");
-    printCelsius(fahrenheitToCelsius(f));
-
-    return 0;
 }
