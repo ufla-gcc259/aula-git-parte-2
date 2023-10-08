@@ -1,14 +1,15 @@
-*tempconv*
-=====
-Biblioteca escrita em Go para conversões simples de temperatura. Extraída do livro **A Linguagem de Programação Go**, de Alan A. A. Donovan e Brian Kernighan. 
+# _tempconv_
 
-Como usar?
-----
+Biblioteca escrita em C++ para conversões de temperatura. Desenvolvido como atividade para a disciplina de Software Livre.
+
+## Como usar?
+
 Faça o download da biblioteca:
 
 `go get https://github.com/ufla-gcc259/aula-git-parte-2@v1.0.1`
 
 Pronto, agora é só usar:
+
 ```go
 package main
 
@@ -24,19 +25,16 @@ func main() {
 }
 ```
 
-Outras linguagens?
-----
-Versões da biblioteca *tempconv* para outras linguagens:
+## Outras linguagens?
 
-> *Todo*
+Versões da biblioteca _tempconv_ para outras linguagens:
 
+[c++](https://github.com/IgorFreiredeMorais/aula-git-parte-2)
 
-Licença
------
+## Licença
 
-> *Todo*
+> _Todo_
 
+## Como contribuir?
 
-Como contribuir?
-----
-Escolha uma *issue* dentre as [disponíveis](https://github.com/ufla-gcc259/aula-git-parte-2/issues), avise à comunidade que você está trabalhando nela e envie um *Pull Request*, quando terminar.
+Escolha uma _issue_ dentre as [disponíveis](https://github.com/ufla-gcc259/aula-git-parte-2/issues), avise à comunidade que você está trabalhando nela e envie um _Pull Request_, quando terminar.
