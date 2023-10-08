@@ -9,7 +9,7 @@ Faça o download da biblioteca:
 `go get https://github.com/ufla-gcc259/aula-git-parte-2@v1.0.1`
 
 ou em Java
-
+'java get https://github.com/luisteixeira13/aula-git-parte-2.git'
 
 
 Pronto, agora é só usar:
