@@ -23,6 +23,9 @@ func (c Celsius) String() string { return fmt.Sprintf("%g°C", c) }
 // String imprime uma temperatura 'n' em Fahrenheit no formato n°F
 func (f Fahrenheit) String() string { return fmt.Sprintf("%g°F", f) }
 
+// String imprime uma temperatura 'n' em Kelvin no formato n°K
+func (k Kelvin) String() string { return fmt.Sprintf("%g°K", k) }
+
 // CToF converte uma temperatura em Celsius para Fahrenheit
 func CToF(c Celsius) Fahrenheit { return Fahrenheit(c*9/5 + 32) }
 
@@ -39,4 +42,4 @@ func CToK(c Celsius) Kelvin { return Kelvin(c + 273.15) }
 func CToF(k Kelvin) Fahrenheit { return Fahrenheit((k - 273.15) * 9/5 + 32) }
 
 // KToC converte uma temperatura em Kelvin para Celsius
-func KToC(k Kelvin) Celsius { return Celsius(c - 273.15) }
+func KToC(k Kelvin) Celsius { return Celsius(k - 273.15) }
