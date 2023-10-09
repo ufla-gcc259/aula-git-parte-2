@@ -1,0 +1,40 @@
+# Diretrizes de Commits
+
+Este repositório segue diretrizes para escrever mensagens de commit que ajudam a manter um histórico de commits organizado e fácil de entender. Siga estas diretrizes ao contribuir para este projeto.
+
+## Tamanho dos Commits
+
+Mantenha os commits pequenos e focados em uma única tarefa, funcionalidade ou correção de bug. Isso facilita a revisão e a identificação de mudanças relacionadas.
+
+## Mensagens de Commit
+
+- Comece com uma letra maiúscula.
+- Use o imperativo (ex: "Adicione", "Corrija", "Atualize" em vez de "Adicionando", "Corrigindo", "Atualizando").
+- Seja claro e conciso, descrevendo o que foi feito e por que, se relevante.
+- Limite a linha de mensagem a 72 caracteres ou menos.
+
+## Padrão de Mensagem de Commit
+
+Cada mensagem de commit deve seguir o padrão:
+<tipo>: <mensagem>
+- `<tipo>`: Pode ser "Adição", "Correção", "Atualização", "Refatoração", "Documentação", "Estilo", etc.
+- `<mensagem>`: Uma descrição concisa do que foi feito.
+
+## Referência a Issues
+
+Se o commit estiver relacionado a uma issue específica do sistema de controle de versões (como GitHub, Jira), inclua a referência da issue na mensagem do commit (ex: "Resolve #123").
+
+## Clareza e Coerência
+
+- Siga um padrão consistente para as mensagens de commit em todo o projeto.
+- Use terminologia e convenções de nomenclatura consistentes.
+
+## Evite Commits Desnecessários
+
+Evite commits com alterações de formatação, espaços em branco ou outros ajustes menores que não contribuam diretamente para a funcionalidade.
+
+## Revisão Prévia
+
+Revise seu próprio código antes de fazer o commit para garantir a qualidade e a integridade das mudanças.
+
+
