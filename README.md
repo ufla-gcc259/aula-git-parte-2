@@ -40,3 +40,9 @@ Licença
 Como contribuir?
 ----
 Escolha uma *issue* dentre as [disponíveis](https://github.com/ufla-gcc259/aula-git-parte-2/issues), avise à comunidade que você está trabalhando nela e envie um *Pull Request*, quando terminar.
+
+
+Diretrizes Para Mensagens de Commit
+----
+
+Use mensagens curtas e objetivas, informando onde foi realizada a edição no código, e oque foi mudado.
