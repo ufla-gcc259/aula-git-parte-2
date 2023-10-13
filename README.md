@@ -28,7 +28,7 @@ Outras linguagens?
 ----
 Versões da biblioteca *tempconv* para outras linguagens:
 
-> *Todo*
+1. [Python](https://github.com/vitorfn/aula-git-parte-2/tree/main/outras_implementacoes/python)
 
 
 Licença
